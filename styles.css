@@ -1,6 +1,9 @@
 body {
   padding: 5%;
   background-color: #f3f3f3;
+  font-family:Verdana, Arial, Helv, Helvetica, sans-serif;
+  background-image: url("http://files2.lynda.com/files/lol_ui/ui/images/wallpapers/html/html_1920x1200.jpg?c-v=24655");
+  color: red;
 }
 
 .gradeBox {
